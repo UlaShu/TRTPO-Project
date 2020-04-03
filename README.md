@@ -1,8 +1,9 @@
 # TRTPO-Project
-# Веб-приложение "Администрирование шахматных турниров"
-Приложение для организации и прооведения шахматных турниров.
+## Веб-приложение "Администрирование шахматных турниров"
+Приложение для организации и проведения шахматных турниров.
 
-# Содержание
+## Содержание
+
 1. [Документация](https://github.com/UlaShu/TRTPO-Project/tree/master/Documents)  
 1.1 [Спецификация требований](https://github.com/UlaShu/TRTPO-Project/tree/master/Documents/Requirements/Requirements.md)   
 1.2 [Проектирование системы](https://github.com/UlaShu/TRTPO-Project/tree/master/Documents/System%20project)   
