@@ -12,6 +12,17 @@
 2 [Требования пользователя](#user_requirements)  <br>
 2.1 [Программные интерфейсы](#software_interfaces)  <br>
 2.2 [Интерфейс пользователя](#user_interface)   <br>
+2.3 [Характеристика пользователей](#charact_users) <br>
+2.3.1 [Аудитория приложения](#audit_app) <br>
+3 [Системные требования](#system_requirements) <br>
+3.1 [Функциональные требования](#functional_requirements) <br>
+3.2 [Нефункциональные требования](#nofunctional_requirements) <br>
+3.2.1 [Атрибуты качества](#attr_quality) <br>
+3.2.1.1 [Требования к удобству использования](#requir_convenience_usages) <br>
+3.2.1.2 [Требования к безопасности](#requir_security) <br>
+3.2.2 [Ограничения](#restrictions) <br>
+4 [Аналоги](#analogs)
+
 
 <a name="intro"/>
 
