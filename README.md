@@ -6,7 +6,7 @@
 
 1. [Документация](https://github.com/UlaShu/TRTPO-Project/tree/master/Documents)  
 1.1 [Спецификация требований](https://github.com/UlaShu/TRTPO-Project/tree/master/Documents/Requirements/Requirements.md)   
-1.2 [Проектирование системы](https://github.com/UlaShu/TRTPO-Project/tree/master/Documents/System%20project.md)   
+1.2 [Проектирование системы](https://github.com/UlaShu/TRTPO-Project/tree/master/Documents/System project/System%20project.md)   
 2. [Исходный код](https://github.com/UlaShu/TRTPO-Project/tree/master/Source)
 3. [Тестирование](https://github.com/UlaShu/TRTPO-Project/tree/master/Testing)  
 3.1 [План тестирования](https://github.com/UlaShu/TRTPO-Project/tree/master/Testing/Test%20plan.md)       
